@@ -1,4 +1,4 @@
-from . import Fibonacci as fibo
+import Fibonacci as fibo
 
 def Main():
     seriesUpTo = int(input("Enter the count for Fibonacci Series: "))

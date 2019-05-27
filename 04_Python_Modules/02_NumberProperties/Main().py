@@ -1,4 +1,4 @@
-from . import NumberProperties as numprop
+import NumberProperties as numprop
 
 
 def Main():
