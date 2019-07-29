@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf4d84b-644e-4408-b6f5-18381647c14e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Yash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Python_Exception_Handling/045_Multiple_Except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Python_Exception_Handling/05_Raise Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Python_Exception_Handling/06_User_Defined_Exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Python File_Mgmt/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_Python File_Mgmt/demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Python_Exception_Handling/04_Exception_Finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Python_Exception_Handling/04_Exception_Finally.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Python_Exception_Handling/Exception_Else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Python_Exception_Handling/Exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Python_Exception_Handling/error.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,26 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/00_WriteFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/01_ReadFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,13 +40,22 @@
         <option value="$PROJECT_DIR$/04_Python_Modules/01_Fibonacci/Main.py" />
         <option value="$PROJECT_DIR$/04_Python_Modules/02_NumberProperties/Main().py" />
         <option value="$PROJECT_DIR$/05_Python File_Mgmt/00_WriteFile.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/00_Error.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/01_Error2.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/Exception_Else.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/03_Exception_ELse.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/02_Exception01.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/04_Exception_Finally.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/045_Multiple_Except.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/05_Raise Exceptions.py" />
+        <option value="$PROJECT_DIR$/06_Python_Exception_Handling/06_User_Defined_Exceptions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,8 +93,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00_WriteFile">
-    <configuration name="00_WriteFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.05_Raise Exceptions">
+    <configuration name="02_Exception01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Python File_Mgmt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Python_Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Python File_Mgmt/00_WriteFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Python_Exception_Handling/02_Exception01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_ReadFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="045_Multiple_Except" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Python File_Mgmt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Python_Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Python File_Mgmt/01_ReadFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Python_Exception_Handling/045_Multiple_Except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_Default_Arg_Values" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_Exception_Finally" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Python_Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python Functions/09_Default_Arg_Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Python_Exception_Handling/04_Exception_Finally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_Raise Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Python_Modules/01_Fibonacci" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Python_Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Python_Modules/01_Fibonacci/Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Python_Exception_Handling/05_Raise Exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exception_Else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Python_Modules/02_NumberProperties" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Python_Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Python_Modules/02_NumberProperties/Main().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Python_Exception_Handling/Exception_Else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_WriteFile" />
-        <item itemvalue="Python.01_ReadFile" />
-        <item itemvalue="Python.Main" />
-        <item itemvalue="Python.Main()" />
-        <item itemvalue="Python.09_Default_Arg_Values" />
+        <item itemvalue="Python.05_Raise Exceptions" />
+        <item itemvalue="Python.045_Multiple_Except" />
+        <item itemvalue="Python.04_Exception_Finally" />
+        <item itemvalue="Python.Exception_Else" />
+        <item itemvalue="Python.02_Exception01" />
       </list>
     </recent_temporary>
   </component>
@@ -223,42 +220,43 @@
       <option name="presentableId" value="Default" />
       <updated>1551923442034</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exception Handling Commit.">
+      <created>1561595690018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561595690018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16259088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16259088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976867" visible="true" weight="0.33002833" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636483" weight="0.33002833" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966952" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49865592" weight="0.3295129" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50231326" side_tool="true" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50363517" side_tool="true" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exception Handling Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling Commit." />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/error.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/Exceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Python Functions/01_Define_Function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -306,9 +304,7 @@
         <state relative-caret-position="-51" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Python Functions/09_UnpackingPython.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python Functions/09_UnpackingPython.py" />
     <entry file="file://$PROJECT_DIR$/03_Python Functions/09_Default_Arg_Values.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -319,9 +315,7 @@
     <entry file="file://$PROJECT_DIR$/03_Python Functions/10_Default_Arg_Again.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Python_Modules/02_NumberProperties/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Python_Modules/02_NumberProperties/__init__.py" />
     <entry file="file://$PROJECT_DIR$/04_Python_Modules/02_NumberProperties/Main().py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -339,17 +333,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/01_ReadFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/00_WriteFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/Exceptions.py" />
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/error.py" />
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/00_Error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/Exception_Else.py" />
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/01_Error2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/02_Exception01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="101" selection-start-line="1" selection-start-column="101" selection-end-line="1" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/04_Exception_Finally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/03_Exception_ELse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/045_Multiple_Except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/05_Raise Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Python_Exception_Handling/06_User_Defined_Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/02_withFileOpen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Python File_Mgmt/01_ReadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
